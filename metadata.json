@@ -1,0 +1,6 @@
+{
+  "name": "AdvisoryOS",
+  "description": "AI-powered planning. Adviser-led decisions. Financial advisory co-pilot for SEBI-registered Investment Advisers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
